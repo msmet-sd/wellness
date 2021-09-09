@@ -17,7 +17,7 @@ import ReactDOM from 'react-dom'
 class Calendar extends React.Component {
   render() {
       return (
-      <iframe src="https://airtable.com/embed/shrtH0afnoBqIlrIM?backgroundColor=orangeLight&layout=card" frameborder="0" onmousewheel="" width="50%" height="533" 
+      <iframe src="https://airtable.com/embed/shrtH0afnoBqIlrIM?backgroundColor=orangeLight&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" 
                      />
       )
   }
