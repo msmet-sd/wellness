@@ -8,13 +8,12 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>Wellness at School</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
+          Wellness Events at PolyU and Around Campus Hosted by our community
+          <br/>
           <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          Click on events in the calendar to see details of what, where and why you would value it.
         </p>
       </div>
     </div>
@@ -32,10 +31,10 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('work')
+              props.onOpenArticle('topics')
             }}
           >
-            Work
+            Covered Topics
           </button>
         </li>
         <li>
@@ -47,17 +46,9 @@ const Header = props => (
             About
           </button>
         </li>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('contact')
-            }}
-          >
-            Contact
-          </button>
-        </li>
       </ul>
     </nav>
+    <br/>
   </header>
 )
 
