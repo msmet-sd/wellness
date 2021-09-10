@@ -8,7 +8,7 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Wellness at School</h1>
+        <h1>Wellness at Innovation Tower</h1>
         <p>
           Wellness Events at PolyU and Around Campus Hosted by our community
           <br/>
