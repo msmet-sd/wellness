@@ -33,7 +33,7 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            This pages hosts different events that showcase various community activities happeneing around us. <a href="#work">awesome work</a>.
+            This pages hosts different events that showcase various community activities happeneing around us. 
           </p>
           <p>
             Whether it is physical events or online events, attending to your mental activities is an important thing. Hopefully partaking in something
