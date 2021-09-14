@@ -8,12 +8,17 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Wellness at Innovation Tower</h1>
-        <p>
-          Wellness Events at PolyU and Around Campus Hosted by our community
+        <h1>
+        The Innovation Tower Wellness Program
+        </h1>
+<p>
+Creativity and innovation comes from our connection to our true selves. While the pressures of academia can serve as a crucible toward discovering the unknown that is within you, personal growth and deeper connection to self requires involves an integration of mind and body. This is achieved by becoming more aware of how our thoughts influence our feelings, emotions, and the somatic experience in the body (tension, breath, etc). By first becoming aware of and then releasing old patterns of behaviour, we rediscover the intuition and insights that are buried underneath.
+</p>
+<p>
+Join us on Wednesdays from 12:30 - 1:30 and Fridays from 5:30 - 6:30 in V020 for meditation, mindfulness, and movement workshops led by local practitioners. The workshops are open to all students and staff in Innovation Tower.
           <br/>
           <br />
-          Click on events in the calendar to see details of what, where and why you would value it.
+          Click on events in the calendar to see details of events. 
         </p>
       </div>
     </div>

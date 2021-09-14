@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Wellness at Innovation Tower',
+    title: 'THE INNOVATION TOWER WELLNESS PROGRAM',
     author: 'Wellness team',
-    description: 'Simple calendar site holding the series of events we are holding in our school.',
+    description: 'A calendar site holding the series of events we are holding in our school.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
